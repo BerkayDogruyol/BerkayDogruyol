@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/AuKXp74)
+[![MasterHead](https://www.canva.com/design/DAFz3p6d160/fUXMe7luXQonkgQQS11i9A/edit?utm_content=DAFz3p6d160&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Berkay Dogruyol</h1>
 <h3 align="center">A passionate full stack developer from Turkey.</h3>
