@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/BerkayDogruyol/BerkayDogruyol/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png?raw=true)
+![MasterHead](https://github.com/BerkayDogruyol/BerkayDogruyol/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Berkay Dogruyol</h1>
 <h3 align="center">A passionate full stack developer from Turkey.</h3>
